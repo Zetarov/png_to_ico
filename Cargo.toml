@@ -1,0 +1,12 @@
+[package]
+name = "png_to_ico"
+version = "0.1.0"
+authors = ["Julien"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.23.14"
+ico = "0.1.0"
+progress_bar = "0.1.3"
